@@ -279,7 +279,14 @@
         <div class="container">
             <div class="row justify-content-center align-items-center justify-content-center">
                 <div class="col-lg-6 col-md-6 col-sm-12">
-                    <p class="copyright-line">© 2025 Archinix. All rights reserved.</p>
+                    <p class="copyright-line text-sm text-gray-500">
+    © 2025 Taskin | 
+    <a href="tel:+918651323192" class="hover:underline text-white">
+        +91 86513 23192
+    </a> 
+    | All rights reserved.
+</p>
+
                 </div>
                 <div class="col-lg-6 col-md-6 col-xs-12 text-md-end">
                     <p class="privacy">Privacy Policy | Terms &amp; Conditions</p>
