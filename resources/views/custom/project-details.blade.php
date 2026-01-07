@@ -1,5 +1,6 @@
 @extends('custom.master')
 
+
 @section('content')
 <div id="smooth-content">
 
@@ -147,5 +148,4 @@
             </div>
         </div>
     </div>
-</div>
 @endsection

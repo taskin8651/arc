@@ -42,7 +42,8 @@
     <!-- Odometer CSS -->
     <link href="{{ asset('assets/css/odometer.min.css') }}" rel="stylesheet">
     <!-- Style CSS -->
-    <link rel="stylesheet" href="{{ asset('public/assets/css/style.css') }}">  
+    <!-- <link rel="stylesheet" href="{{ asset('public/assets/css/style.css') }}">   -->
+    <link rel="stylesheet" href="{{ asset('assets/css/style.css') }}">  
 </head>
 
 <body>
@@ -70,7 +71,7 @@
                         <div class="col-xl-5 col-lg-4 col-6">        
 
                             <div class="logo">                                
-                                <a href="index-2.html" class="logo"><img src="assets/img/logo/logo.png" alt=""></a>                                                                                           
+                                <a href="/" class="logo"><img src="assets/img/logo/logo.png" alt=""></a>                                                                                           
                             </div>
                             
                         </div>
@@ -215,7 +216,7 @@
             <div class="footer-up">
                 <div class="row gy-5">
                     <div class="col-lg-4 col-md-6 col-sm-12">                        
-                        <a href="index-2.html" class="logo"><img src="{{$settings->favicon->getUrl()}}" alt=""></a>                                                                                                
+                        <a href="/" class="logo"><img src="{{$settings->favicon->getUrl()}}" alt=""></a>                                                                                                
                         <p>{{$settings->footer_text}}
                         </p>
                     </div>

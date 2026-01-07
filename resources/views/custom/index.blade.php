@@ -77,7 +77,7 @@
                     <div class="about-content-wrap">                                                        
                         <p class="p-xl wow tpfadeUp">Archinix is an award-winning modern architecture firm based in London. We specialize in contemporary design through our signature Natural Modern approach. We involves in many different disciplines including urban planning, landscape architecture, interior design, civil engineering, structural engineering.
                         </p>
-                        <a class="link-text mt-30 wow tpfadeUp" href="about.html">More About Us</a>
+                        <a class="link-text mt-30 wow tpfadeUp" href="/about">More About Us</a>
                     </div>
                 </div>
             </div>
@@ -324,7 +324,7 @@
                 <div class="heading-animation">
                     <h2 class="text-white">The best builds start <br> before the build</h2>
                 </div>
-                <a href="contact.html" class="theme-btn white-btn mt-30">Contact Us</a>
+                <a href="/contact" class="theme-btn white-btn mt-30">Contact Us</a>
             </div>            
         </div>
     </section>

@@ -72,7 +72,7 @@
 
         </div>
     </div>
-</div>
+
 <script>
 document.addEventListener('DOMContentLoaded', function() {
     // Restore normal link behavior for project category links
